@@ -5,4 +5,6 @@ AWS Builders Online Series is designed to enable you with core AWS concepts, ste
   <img src="https://miro.medium.com/max/1364/0*2ui893KAwAT_F9wz.gif">
 </p>
 
-This Repo contains the handouts given in the AWS-Builder virtual webinar perticipents.
+<strong align="center">
+  This Repo contains the handouts given in the AWS-Builder virtual webinar perticipents.
+  </strong>
