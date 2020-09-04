@@ -10,3 +10,13 @@ AWS Builders Online Series is designed to enable you with core AWS concepts, ste
   This Repo contains the handouts given in the AWS-Builder virtual webinar perticipents.
   </strong>
   </H3>
+  
+  <p align="center">
+  <img src="https://github.com/Sneheshdutta/AWS-Builders-Online-Series/blob/master/Perticipation%20Certificate.png?raw=true">
+</p>
+
+<H3 align="center">
+  <strong >
+  certificate of participation
+  </strong>
+  </H3>
